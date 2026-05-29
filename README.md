@@ -1,74 +1,86 @@
+
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:F59E0B&text=Farrel%20Fachrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20System%20Architect%20•%20Cinematic%20UI%20Engineer&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:F59E0B&text=Hello%20Its%20Me%20El!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=•Fullstack%20Developer%20•&descAlignY=58" width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=900&lines=Building+Modern+Enterprise+Systems;Designing+Cinematic+Digital+Experiences;Fullstack+Developer+with+Infrastructure+Mindset;Crafting+Scalable+Applications+from+Zero+to+Production" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=850&lines=Jack+of+all+trades;Master+of+none" />
+
+
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=farrelfachrianr&style=for-the-badge&color=orange" />
+<img src="https://komarev.com/ghpvc/?username=farrelfachrianr&style=flat-square&color=orange" />
 
 </div>
 
 ---
+
 
 # ⚡ About Me
 
 ```ts
-const farrelfachrianr = {
-  role: [
-    "Fullstack Developer",
-    "System Architect",
-    "IT Infrastructure Engineer"
-  ],
+const farrel = {
+  role: "Fullstack Developer",
 
-  specialization: [
-    "Enterprise Internal Systems",
-    "SaaS Platform Architecture",
-    "Cinematic Website Experience",
-    "Mobile Application Ecosystem",
-    "Modern UI/UX Engineering"
-  ],
+  experience: {
+    web: [
+      "Enterprise Internal Systems",
+      "SaaS Platforms",
+      "Modern Web Applications"
+    ],
 
-  currentlyFocusedOn: [
-    "High Performance Web Apps",
-    "Scalable Backend Architecture",
-    "AI Assisted Development Workflow",
-    "Immersive Frontend Interaction"
+    mobile: [
+      "Flutter Applications",
+      "Android Deployment",
+      "iOS Deployment"
+    ],
+
+    backend: [
+      "REST API Architecture",
+      "Payment Gateway Integration",
+      "Database Design & Optimization"
+    ]
+  },
+
+  infrastructure: {
+    server: [
+      "Linux Server Management",
+      "Cloudflare Integration",
+      "CyberPanel Environment"
+    ],
+
+    database: [
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
+
+  currentlyBuilding: [
+    "HRIM",
+    "Office Tulen",
+    "RimFinance"
   ],
 
   philosophy:
-    "Build products that are scalable, immersive, and production-ready."
+    "One day, I am gonna grow wings... - Let down"
 }
 ```
 
-# 🚀 Core Expertise
 
-<div align="center">
 
-| Enterprise Systems | Modern Frontend | Infrastructure |  Mobile Ecosystem  |
-| :----------------: | :-------------: | :------------: | :----------------: |
-|     HRIS / ERP     | Next.js / Astro |  Linux Server  |       Flutter      |
-|  SaaS Architecture |    Motion UI    |   PostgreSQL   | Android Deployment |
-|   Payment Gateway  |   TailwindCSS   |   Cloudflare   |   iOS Deployment   |
-|   API Engineering  |    TypeScript   |   CyberPanel   |  Store Publishing  |
-
-</div>
-
----
-
-# 🛠 Technology Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
 ### Backend & Architecture
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,wordpress,firebase,postgres,mysql" />
 
 ### Frontend Ecosystem
 
@@ -80,98 +92,115 @@ const farrelfachrianr = {
 
 ### Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=linux,cloudflare,git,github,figma" />
 
+<br/>
 </div>
 
 ---
 
-# 🌌 What I Build
 
-```txt
-✔ Enterprise Internal Systems
-✔ Human Resource Information Systems (HRIS)
-✔ SaaS Platforms
-✔ Payment Gateway Integrations
-✔ Production Mobile Applications
-✔ Cinematic Landing Pages
-✔ High Performance Frontend Architecture
-✔ Infrastructure & Server Management
-```
+# 🚀 Featured Projects
+
+## 🌐 Web Platforms
+
+- [Company Profile](https://invitation.revormaindotamamandiri.com)
+- [Tulen.co.id](https://tulen.co.id)
+
+## 📱 Mobile Applications
+
+- [Tukang Online Customer — Google Play](https://play.google.com/store/apps/details?id=com.revorma.sewa_tukang_pelanggan&hl=id)
+
+- [Tukang Online Mitra — Google Play](https://play.google.com/store/apps/details?id=com.revorma.sewa_tukang_tukang&hl=id)
+
+- [Tukang Online Customer — App Store](https://apps.apple.com/us/app/tukang-online-customer/id6759269456)
 
 ---
 
-# 📊 GitHub Analytics
+# 🏢 Internal Systems
+
+## HRIM
+
+Mobile-based attendance and asset management system with:
+- Geofencing attendance
+- QR Code asset inventory
+- Flutter mobile application
+- REST API architecture
+
+## Office Tulen
+
+SaaS-based operational dashboard and workforce management system for the construction & service ecosystem.
+
+## RimFinance
+
+Internal ERP financial management system for operational finance and business reporting.
+
+---
+
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farrelfachrianr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelfachrianr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com?user=farrelfachrianr&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=farrelfachrianr&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farrelfachrianr&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-# 🎯 Current Interests
+# 🎯 Current Focus
 
-* Cinematic UI/UX
-* Smooth Scroll Experiences
-* Motion Interaction Design
-* Enterprise Grade Architecture
-* AI Workflow Automation
-* Scalable Backend Engineering
-* Modern DevOps Workflow
-
----
-
-# 📱 Production Experience
-
-> Successfully architected and deployed production-ready systems across web and mobile platforms.
-
-* ✅ Android & iOS App Deployment
-* ✅ Multi-role Enterprise Systems
-* ✅ Secure Payment Integration
-* ✅ Server Infrastructure Management
-* ✅ API & Database Architecture
-* ✅ Full Production Lifecycle Handling
+- Enterprise Internal Systems
+- SaaS Platform Architecture
+- Backend & Infrastructure Engineering
+- High Performance Web Applications
+- Mobile App Ecosystem
+- Modern UI/UX Development
 
 ---
 
 # 🤝 Connect With Me
 
+
 <div align="center">
 
 <a href="https://github.com/farrelfachrianr">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.instagram.com/farrelfachrian">
+  <img src="https://img.shields.io/badge/Instagram-F59E0B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Discord-itssnowday-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </div>
+
+
+
+
 
 ---
 
 <div align="center">
 
-### ⚡ “Code is not just functionality — it's an experience.”
+### ⚡ Building scalable systems and production-ready applications.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F59E0B,100:0F172A&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F59E0B,100:0F172A&section=footer"/>
 
 </div>
