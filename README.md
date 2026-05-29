@@ -7,7 +7,7 @@
 <h2 align="center">🔮 Fullstack Developer 🔮</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&style=flat-square&color=8A2BE2" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=farrelfachrianr&style=flat-square&color=8A2BE2" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -82,15 +82,15 @@ I am a passionate **Fullstack Developer** who loves building robust web applicat
 
 <p align="center">
   <!-- GitHub Stats Card (Dracula Purple theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dracula&locale=en&hide_border=true&title_color=purple&icon_color=purple" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farrelfachrianr&show_icons=true&theme=dracula&locale=en&hide_border=true&title_color=purple&icon_color=purple" alt="GitHub Stats" height="150" />
   
   <!-- Top Languages Card (Dracula Purple theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=dracula&hide_border=true&title_color=purple" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelfachrianr&layout=compact&theme=dracula&hide_border=true&title_color=purple" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
   <!-- Streak Stats Card (Dracula Purple theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=dracula&hide_border=true&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelfachrianr&theme=dracula&hide_border=true&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
 </p>
 
 ---
