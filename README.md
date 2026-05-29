@@ -1,5 +1,5 @@
-````md
 <!-- HERO SECTION -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:F59E0B&text=Farrel%20Fachrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20System%20Architect%20•%20Cinematic%20UI%20Engineer&descAlignY=58" width="100%" />
 </p>
@@ -45,7 +45,7 @@ const farrelfachrianr = {
   philosophy:
     "Build products that are scalable, immersive, and production-ready."
 }
-````
+```
 
 ---
 
@@ -177,4 +177,3 @@ const farrelfachrianr = {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F59E0B,100:0F172A&section=footer"/>
 
 </div>
-```
