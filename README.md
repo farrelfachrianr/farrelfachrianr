@@ -1,97 +1,180 @@
-<!-- HEADER BANNER -->
+````md
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20I'm%20Farrel%20Fachrian&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:F59E0B&text=Farrel%20Fachrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20System%20Architect%20•%20Cinematic%20UI%20Engineer&descAlignY=58" width="100%" />
 </p>
 
-<!-- SUBTITLE & INTRO -->
-<h3 align="center">Full-Stack Developer | IT Administrator | SaaS & Enterprise Solutions Architect</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=900&lines=Building+Modern+Enterprise+Systems;Designing+Cinematic+Digital+Experiences;Fullstack+Developer+with+Infrastructure+Mindset;Crafting+Scalable+Applications+from+Zero+to+Production" />
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=farrelfachrianr&style=for-the-badge&color=orange" />
+
+</div>
 
 ---
 
-### 💫 About Me
+# ⚡ About Me
 
-I am a versatile **Full-Stack Developer** and **IT Administrator** with a proven track record of architecting, developing, and deploying full-scale production applications (Web, iOS, and Android). Experienced in building complex ecosystems from scratch—ranging from internal management systems to public SaaS platforms—while handling everything from Database Design (ERD) to Server Maintenance and Secure Payment Gateways.
+```ts
+const farrelfachrianr = {
+  role: [
+    "Fullstack Developer",
+    "System Architect",
+    "IT Infrastructure Engineer"
+  ],
 
-- 📱 Successfully deployed and maintained production apps on both **Apple App Store** and **Google Play Store**.
-- 🛠️ Comprehensive experience in managing multi-sided corporate platforms, server infrastructures, and panels.
-- 🚀 Specialized in creating optimized workflows, secure API integrations, and robust database architectures.
+  specialization: [
+    "Enterprise Internal Systems",
+    "SaaS Platform Architecture",
+    "Cinematic Website Experience",
+    "Mobile Application Ecosystem",
+    "Modern UI/UX Engineering"
+  ],
 
----
+  currentlyFocusedOn: [
+    "High Performance Web Apps",
+    "Scalable Backend Architecture",
+    "AI Assisted Development Workflow",
+    "Immersive Frontend Interaction"
+  ],
 
-### 📱 Proven Track Record & Live Products
-
-*   **SaaS & Enterprise Systems:** Experienced in developing full-scale Software as a Service (SaaS) models, Human Resource Information Management (HRIM/HRIS), and robust application architecture from ERD planning to final deployment.
-*   **Mobile App Production:** Actively developing and maintaining multi-sided platforms for **Android (Play Store)** and **iOS (App Store)**, managing full release lifecycles, and push updates.
-*   **Payment Gateway Integrations:** Production-ready implementation of secure automated billing and payment systems using **Midtrans** and **Xendit**.
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Backend & Frameworks</h4>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Inertia.js-9553E8?style=for-the-badge&logo=inertia&logoColor=white" />
-      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
-      <img src="https://img.shields.io/badge/Filament-FFA500?style=for-the-badge&logo=filament&logoColor=black" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Ecosystem</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile Development</h4>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/iOS_Deployment-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android_Deployment-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Server, Infra & DB</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/AlmaLinux-F44336?style=for-the-badge&logo=almalinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/CyberPanel-20a7d8?style=for-the-badge&logo=cyberpanel&logoColor=white" />
-    </td>
-  </tr>
-</table>
+  philosophy:
+    "Build products that are scalable, immersive, and production-ready."
+}
+````
 
 ---
 
-### 📊 GitHub Statistics
+# 🚀 Core Expertise
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=visual_studio_dark&locale=en&hide_border=true" alt="GitHub Stats" height="150" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=visual_studio_dark&hide_border=true" alt="GitHub Streak" />
-</p>
+| Enterprise Systems | Modern Frontend | Infrastructure |  Mobile Ecosystem  |
+| :----------------: | :-------------: | :------------: | :----------------: |
+|     HRIS / ERP     | Next.js / Astro |  Linux Server  |       Flutter      |
+|  SaaS Architecture |    Motion UI    |   PostgreSQL   | Android Deployment |
+|   Payment Gateway  |   TailwindCSS   |   Cloudflare   |   iOS Deployment   |
+|   API Engineering  |    TypeScript   |   CyberPanel   |  Store Publishing  |
+
+</div>
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</p>
+# 🛠 Technology Stack
+
+<div align="center">
+
+### Backend & Architecture
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,postgres,mysql" />
+
+### Frontend Ecosystem
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,astro,tailwind,typescript" />
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,github,figma" />
+
+</div>
+
+---
+
+# 🌌 What I Build
+
+```txt
+✔ Enterprise Internal Systems
+✔ Human Resource Information Systems (HRIS)
+✔ SaaS Platforms
+✔ Payment Gateway Integrations
+✔ Production Mobile Applications
+✔ Cinematic Landing Pages
+✔ High Performance Frontend Architecture
+✔ Infrastructure & Server Management
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farrelfachrianr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelfachrianr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=farrelfachrianr&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🎯 Current Interests
+
+* Cinematic UI/UX
+* Smooth Scroll Experiences
+* Motion Interaction Design
+* Enterprise Grade Architecture
+* AI Workflow Automation
+* Scalable Backend Engineering
+* Modern DevOps Workflow
+
+---
+
+# 📱 Production Experience
+
+> Successfully architected and deployed production-ready systems across web and mobile platforms.
+
+* ✅ Android & iOS App Deployment
+* ✅ Multi-role Enterprise Systems
+* ✅ Secure Payment Integration
+* ✅ Server Infrastructure Management
+* ✅ API & Database Architecture
+* ✅ Full Production Lifecycle Handling
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/farrelfachrianr">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Code is not just functionality — it's an experience.”
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F59E0B,100:0F172A&section=footer"/>
+
+</div>
+```
