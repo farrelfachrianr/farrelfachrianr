@@ -2,7 +2,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:F59E0B&text=Hello%20Its%20Me%20El!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=•Fullstack%20Developer%20•&descAlignY=58" width="100%" />
+  <img src="./assets/bannerel.png" width="100%" />
 </p>
 
 <div align="center">
