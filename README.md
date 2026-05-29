@@ -47,8 +47,6 @@ const farrelfachrianr = {
 }
 ```
 
----
-
 # 🚀 Core Expertise
 
 <div align="center">
