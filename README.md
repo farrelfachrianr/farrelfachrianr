@@ -2,7 +2,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="./assets/bannerel.png" width="100%" />
+  <img src="./asset/bannerel.png" width="100%" />
 </p>
 
 <div align="center">
