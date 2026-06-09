@@ -92,7 +92,7 @@ const farrel = {
 
 ### Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,cloudflare,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=linux,cloudflare,git,github,docker,figma" />
 
 <br/>
 </div>
