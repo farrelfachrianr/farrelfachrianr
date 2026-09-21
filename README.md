@@ -104,9 +104,9 @@ const farrel = {
 
 ## 🌐 Web Platforms
 
-- [Company Profile](https://invitation.revormaindotamamandiri.com)
-- [Tulen.co.id](https://tulen.co.id)
-- [Online Voting] (https://nusavote.com)
+- [Company Profile] (https://invitation.revormaindotamamandiri.com)
+- [Company Profile] (https://tulen.co.id)
+- [Custom Online Voting Web With Payment Gateway Integrated] (https://nusavote.com))
 
 ## 📱 Mobile Applications
 
