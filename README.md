@@ -106,6 +106,7 @@ const farrel = {
 
 - [Company Profile](https://invitation.revormaindotamamandiri.com)
 - [Tulen.co.id](https://tulen.co.id)
+- [Online Voting] (https://nusavote.com)
 
 ## 📱 Mobile Applications
 
@@ -114,6 +115,8 @@ const farrel = {
 - [Tukang Online Mitra — Google Play](https://play.google.com/store/apps/details?id=com.revorma.sewa_tukang_tukang&hl=id)
 
 - [Tukang Online Customer — App Store](https://apps.apple.com/us/app/tukang-online-customer/id6759269456)
+
+- [HRIM(Absensi dan kelola asset serta laporan internal kantor] ( On Publication Process )
 
 ---
 
